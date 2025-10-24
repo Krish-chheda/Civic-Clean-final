@@ -23,7 +23,7 @@ const Home = () => {
           Our AI automatically extracts issue types and locations from text or images.
         </p>
         <div className="flex gap-4 justify-center flex-wrap">
-          <Link to="/auth">
+          <Link to="/report">
             <Button size="lg" className="gap-2">
               <Upload className="w-5 h-5" />
               Get Started
